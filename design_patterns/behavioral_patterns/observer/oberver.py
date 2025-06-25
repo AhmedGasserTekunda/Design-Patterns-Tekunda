@@ -1,4 +1,3 @@
-# observer_pattern/observer.py
 class NewsPublisher:
     def __init__(self):
         self._subscribers = []

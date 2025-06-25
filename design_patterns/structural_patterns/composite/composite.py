@@ -1,4 +1,3 @@
-# composite_pattern/composite.py
 class MenuItem:
     def display(self):
         raise NotImplementedError()

@@ -1,4 +1,3 @@
-# strategy_pattern/strategy.py
 class PaymentStrategy:
     def pay(self, amount):
         raise NotImplementedError()
