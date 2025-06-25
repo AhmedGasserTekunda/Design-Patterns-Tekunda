@@ -9,7 +9,6 @@ This repository demonstrates several common design patterns implemented in Pytho
 - **observer_pattern/**: Contains Observer pattern implementation.
 - **composite_pattern/**: Contains Composite structure.
 - **strategy_pattern/**: Demonstrates a behavioral Strategy pattern.
-- **factory_pattern/**: Example of a creational Factory pattern.
 
 ## Python Naming Conventions (PEP8)
 - Modules: `lowercase_with_underscores`
